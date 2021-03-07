@@ -1,3 +1,3 @@
 # Utilisation
 
-Cliquez sur les boutons correspondant aux actions que vous souhaitez faire.
+Cliquez sur les boutons correspondants aux actions que vous souhaitez faire.
