@@ -1,6 +1,6 @@
 # Exercices git : depot de tests
 
-Ce dépôt contient des exercices sur git sur les différents concepts de l'outils. 
+Ce dépôt contient des exercices sur git sur les différents concepts de l'outil. 
 Il est préférable de forker ce dépot pour ne pas être bloqué pour certains exercices utilisant les remotes. Pour cela vous pouvez généralement cliquer sur un bouton `fork` en haut à droite.
 
 ## Contexte des exercices
