@@ -1,6 +1,17 @@
-# Gérer les dépots distants
+# Revenir en arrière sur un commit
 
-* Afficher l'ensemble des depot distant connus pour ce dépot
-* copier le dossier correspondant à votre dépot à un autre endroit de votre disque dur
-* Créer un depot distant vers ce dossier
-* Faites un commit et pousser le vers ce depot
+* Créer et valider un fichier "contribuer.md" dans le dossier `docs` avec le contenu suivant.
+
+```
+# Contribuer
+
+Pour contribuer à ce projet, veuillez envoyer un mail à l'adresse contrbution@git.insee.
+```
+
+* Modifier ce commit pour ajouter une ligne au fichier
+
+```
+Il est aussi possible de passer par des Merge Request.
+```
+
+* Annuler le commit tout en gardant les modifications dans la copie de travail.
