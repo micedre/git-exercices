@@ -1,26 +1,9 @@
-# Premier commit
+# Voir les log
 
-* Créer un dossier docs puis un fichier "installation.md" contenant le paragraphe suivant :
+* Afficher le dernier commit uniquement, ainsi que les modifications qu'il a apporté
+* Trouver le hash du commit dont le message contient "docs"
+* Trouver le hash du commit dont l'auteur est "Mystere"
 
-```
-# Installation
-
-Extraire l'archive dans le dossier voulu puis double cliquez sur `bin\exemple.exe`.
-
-```
-
-et un fichier "utilisation.md" contenant les lignes suivantes :
-
-```
-# Utilisation
-
-Cliquez sur les boutons correspondant aux actions que vous souhaitez faire.
-```
-
-* Commiter le fichier installation.md uniquement
-* Ajouter le fichier utilisation.md à l'index
-* Afficher les différences entre l'index et le dernier commit
-* Modifier le dernier commit pour ajouter les deux fichiers en meme temps
 
 
 
