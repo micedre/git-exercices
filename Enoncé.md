@@ -1,9 +1,4 @@
-# Voir les log
+# Ignorer des fichiers
 
-* Afficher le dernier commit uniquement, ainsi que les modifications qu'il a apporté
-* Trouver le hash du commit dont le message contient "docs"
-* Trouver le hash du commit dont l'auteur est "Mystere"
-
-
-
-
+* Faites en sorte que git ignore le dossier build
+* Faites en sorte que git ignore les fichiers ayant pour extensions `jar` excepté le fichier `td.jar`
