@@ -1,5 +1,7 @@
-# Créer un tag
+# gérer les branches
 
-* Créer un commit et un tag sur ce commit
-* Ajouter un description sur ce tag (-f pour forcer la réécriture d'un tag)
-* Récupérer le tag "1.0" par un checkout et modifier un fichier pour refaire un tag "1.1"
+* Créer une branche "feat/add-construction-doc" à partir de la branche `gestion-branche`
+* ajouter des commit sur cette branche (en ajouter un fichier "construction.md" dans docs)
+* Créer une deuxieme branche "issue/fix-typo"  à partir de la branche `gestion-branche`
+* ajouter des commit sur cette branche
+* Visualiser les deux branches dans les journaux git.
