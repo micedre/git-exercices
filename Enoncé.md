@@ -1,7 +1,6 @@
 # gérer les branches
 
-* Créer une branche "feat/add-construction-doc" à partir de la branche `gestion-branche`
-* ajouter des commit sur cette branche (en ajouter un fichier "construction.md" dans docs)
-* Créer une deuxieme branche "issue/fix-typo"  à partir de la branche `gestion-branche`
-* ajouter des commit sur cette branche
-* Visualiser les deux branches dans les journaux git.
+* Examiner l'etat de la branche ff-merge2
+* Fusionner la branche ff-merge2 dans ff-merge
+* Supprimer la branche ff-merge2
+* Verifiez l'historique
