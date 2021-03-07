@@ -1,4 +1,6 @@
-# Ignorer des fichiers
+# Gérer les dépots distants
 
-* Faites en sorte que git ignore le dossier build
-* Faites en sorte que git ignore les fichiers ayant pour extensions `jar` excepté le fichier `td.jar`
+* Afficher l'ensemble des depot distant connus pour ce dépot
+* copier le dossier correspondant à votre dépot à un autre endroit de votre disque dur
+* Créer un depot distant vers ce dossier
+* Faites un commit et pousser le vers ce depot
