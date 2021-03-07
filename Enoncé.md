@@ -14,7 +14,7 @@ et un fichier "utilisation.md" contenant les lignes suivantes :
 ```
 # Utilisation
 
-Cliquez sur les boutons correspondant aux action que vous souhaitez faire
+Cliquez sur les boutons correspondant aux actions que vous souhaitez faire.
 ```
 
 * Commiter le fichier installation.md uniquement
