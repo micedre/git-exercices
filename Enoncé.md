@@ -1,6 +1,6 @@
-# gérer les branches
+# Rebasage
 
-* Examiner l'etat des branches conflict-merge1 et conflict-merge2
-* Quels fichiers ont été modifiés dans les commits de ces deux branches ?
-* Fusionner la branche conflict-merge1 dans conflict-merge2
-* Gérer le conflit avec l'outil de votre choix.
+* Examiner l'etat de la branche git-rebase1
+* rebaser là sur la branche git-rebase
+* Gérer les conflits
+* Utiliser l'outil https://git-school.github.io/visualizing-git/ pour visualiser une operation de rebasage
