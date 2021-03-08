@@ -41,7 +41,7 @@ Pour chaque exercice le README décrit l'énoncé de l'exercice et les taches à
 * Fusionner des branches (3-way) (`3-way-merge`)
 * Fusionner des branches (conflit) (`conflict-merge`)
 * Rebaser (`git-rebase`)
-* gérer les branches distantes (`remote-branches`)
+* gérer les branches distantes (`remote-branches`) test test
 
 ### Commandes avancées
 
