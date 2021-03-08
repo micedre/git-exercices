@@ -1,7 +1,9 @@
-# Exercices git : depot de tests
+# Exercices git : dépôt de tests
 
 Ce dépôt contient des exercices sur git sur les différents concepts de l'outils. 
-Il est préférable de forker ce dépot pour ne pas être bloqué pour certains exercices utilisant les remotes. Pour cela vous pouvez généralement cliquer sur un bouton `fork` en haut à droite.
+Il est préférable de créer un fork de ce dépôt pour ne pas être bloqué pour certains exercices utilisant les remotes. Pour cela vous pouvez généralement cliquer sur un bouton `fork` en haut à droite.
+
+Ce dépôt permet de manipuler l'outil de façon un peu guidée, mais n'a pas vocation à aborder l'ensemble des fonctionnalité de `git`; la lecture du livre [Pro Git](https://git-scm.com/book) est fortement conseillée. 
 
 ## Contexte des exercices
 
@@ -9,7 +11,7 @@ Vous avez été missionné pour rétro documenter une application existante avec
 
 ## Exercices 
 
-On suppose ici que vous avez déjà installé et configurer l'outil git (si ce n'est pas le cas, voir ici : https://gitlab.insee.fr/animation-developpement/outils-de-dev/-/wikis/Outils/Git_Fiche ).
+On suppose pour toutes la suite que vous avez déjà installé et configurer l'outil `git`. Si ce n'est pas le cas,  Vous pouvez le [télécharger](https://git-scm.com/downloads).
 
 Chaque exercice se trouve dans une branche dédiée (fournie entre parenthèse dans la liste ci dessous), pour y accéder il faudra donc taper la commande suivante :
 
@@ -26,7 +28,7 @@ Pour chaque exercice le README décrit l'énoncé de l'exercice et les taches à
 
 ### Premieres commandes git
 
-* Création d'un dépot (`clone-init`)
+* Création d'un dépôt (`clone-init`)
 * Mon premier commit (`premier-commit`)
 * Voir les logs (`git-log`)
 * Ignorer des fichiers (`git-ignore`)
@@ -41,7 +43,7 @@ Pour chaque exercice le README décrit l'énoncé de l'exercice et les taches à
 * Fusionner des branches (3-way) (`3-way-merge`)
 * Fusionner des branches (conflit) (`conflict-merge`)
 * Rebaser (`git-rebase`)
-* gérer les branches distantes (`remote-branches`) test-conflit
+* gérer les branches distantes (`remote-branches`) test test
 
 ### Commandes avancées
 
