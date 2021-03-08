@@ -1,6 +1,6 @@
 # gérer les branches
 
-* Examiner l'etat des branches 3-way-merge1 et 3-way-merge2
-* fusionner 3-way-merge1 dans 3-way-merge2
-* Examiner l'état de la branche 3-way-merge1
-* Les commits ont ils changé de hash ?
+* Examiner l'etat des branches conflict-merge1 et conflict-merge2
+* Quels fichiers ont été modifiés dans les commits de ces deux branches ?
+* Fusionner la branche conflict-merge1 dans conflict-merge2
+* Gérer le conflit avec l'outil de votre choix.
